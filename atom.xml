@@ -5,9 +5,9 @@
   <subtitle>个人博客</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://blog.jarxi.com/"/>
+  <link href="https://blog.jarxi.com/"/>
   <updated>2018-12-25T09:47:17.558Z</updated>
-  <id>http://blog.jarxi.com/</id>
+  <id>https://blog.jarxi.com/</id>
   
   <author>
     <name>cjpthree</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://blog.jarxi.com/2018/12/25/hello-world/"/>
-    <id>http://blog.jarxi.com/2018/12/25/hello-world/</id>
+    <link href="https://blog.jarxi.com/2018/12/25/hello-world/"/>
+    <id>https://blog.jarxi.com/2018/12/25/hello-world/</id>
     <published>2018-12-25T09:47:17.562Z</published>
     <updated>2018-12-25T09:47:17.558Z</updated>
     
@@ -34,10 +34,10 @@
     
     </summary>
     
-      <category term="Testing" scheme="http://blog.jarxi.com/categories/Testing/"/>
+      <category term="Testing" scheme="https://blog.jarxi.com/categories/Testing/"/>
     
     
-      <category term="Testing" scheme="http://blog.jarxi.com/tags/Testing/"/>
+      <category term="Testing" scheme="https://blog.jarxi.com/tags/Testing/"/>
     
   </entry>
   
